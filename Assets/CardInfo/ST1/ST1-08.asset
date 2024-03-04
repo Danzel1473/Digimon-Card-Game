@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 934ecb95c533de844900db38adc9a50f, type: 3}
+  m_Name: ST1-08
+  m_EditorClassIdentifier: 
+  cardNum: ST1-08
+  cardName: "\uAC00\uB8E8\uB2E4\uBAAC"
+  DP: 7000
+  LV: 5
+  appearCost: 6
+  digivolveCost: 3
+  Front: {fileID: 21300000, guid: 1e3cd73cc8e44454ea71be254ec67ffc, type: 3}
+  Back: {fileID: 21300000, guid: ef9a873cf25417c4b9e1b156f4cc3445, type: 3}
